@@ -77,11 +77,8 @@
 		CCDA263F1B8F99BE006CDE4E /* cs193p-calculator */ = {
 			isa = PBXGroup;
 			children = (
-				CCDA26421B8F99BE006CDE4E /* AppDelegate.swift */,
 				CCDA26441B8F99BE006CDE4E /* ViewController.swift */,
 				CCDA26461B8F99BE006CDE4E /* Main.storyboard */,
-				CCDA26491B8F99BE006CDE4E /* Images.xcassets */,
-				CCDA264B1B8F99BE006CDE4E /* LaunchScreen.xib */,
 				CCDA26401B8F99BE006CDE4E /* Supporting Files */,
 			);
 			path = "cs193p-calculator";
@@ -90,6 +87,9 @@
 		CCDA26401B8F99BE006CDE4E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CCDA264B1B8F99BE006CDE4E /* LaunchScreen.xib */,
+				CCDA26491B8F99BE006CDE4E /* Images.xcassets */,
+				CCDA26421B8F99BE006CDE4E /* AppDelegate.swift */,
 				CCDA26411B8F99BE006CDE4E /* Info.plist */,
 			);
 			name = "Supporting Files";
